@@ -1,0 +1,46 @@
+2020-07-20 19:55:29 FATAL [main] Login:52 - hey this is just fatal error message
+2020-07-20 19:55:37 FATAL [main] Login:52 - hey this is just fatal error message
+2020-07-20 19:57:55  INFO [main] Login:45 - ******************** window maximised *****************
+2020-07-20 19:57:57  INFO [main] Login:50 - ******************** opened browser *****************
+2020-07-20 19:57:57  WARN [main] Login:51 - Hey this just a warning message
+2020-07-20 19:57:57 FATAL [main] Login:52 - hey this is just fatal error message
+2020-07-20 19:57:57 DEBUG [main] Login:53 - this is debug message
+2020-07-20 19:57:57  INFO [main] Login:65 - ******************** title captured *****************
+2020-07-20 19:57:58  INFO [main] Login:85 - ******************** Closed browser *****************
+2020-07-20 19:58:04  INFO [main] Login:45 - ******************** window maximised *****************
+2020-07-20 19:58:06  INFO [main] Login:50 - ******************** opened browser *****************
+2020-07-20 19:58:06  WARN [main] Login:51 - Hey this just a warning message
+2020-07-20 19:58:06 FATAL [main] Login:52 - hey this is just fatal error message
+2020-07-20 19:58:06 DEBUG [main] Login:53 - this is debug message
+2020-07-20 19:58:06  INFO [main] Login:74 - ******************** Logo Dispalyed *****************
+2020-07-20 19:58:07  INFO [main] Login:85 - ******************** Closed browser *****************
+2020-07-20 20:02:36  INFO [main] Login:45 - ******************** window maximised *****************
+2020-07-20 20:02:37  INFO [main] Login:51 - ******************** opened browser *****************
+2020-07-20 20:02:37  WARN [main] Login:52 - Hey this just a warning message
+2020-07-20 20:02:37 ERROR [main] Login:53 - This is Error Message
+2020-07-20 20:02:37 FATAL [main] Login:54 - hey this is just fatal error message
+2020-07-20 20:02:38  INFO [main] Login:66 - ******************** title captured *****************
+2020-07-20 20:02:38  INFO [main] Login:86 - ******************** Closed browser *****************
+2020-07-20 20:02:44  INFO [main] Login:45 - ******************** window maximised *****************
+2020-07-20 20:02:46  INFO [main] Login:51 - ******************** opened browser *****************
+2020-07-20 20:02:46  WARN [main] Login:52 - Hey this just a warning message
+2020-07-20 20:02:46 ERROR [main] Login:53 - This is Error Message
+2020-07-20 20:02:46 FATAL [main] Login:54 - hey this is just fatal error message
+2020-07-20 20:02:46  INFO [main] Login:75 - ******************** Logo Dispalyed *****************
+2020-07-20 20:02:47  INFO [main] Login:86 - ******************** Closed browser *****************
+2020-07-20 20:04:39  INFO [main] Login:45 - ******************** window maximised *****************
+2020-07-20 20:04:41 DEBUG [main] Login:50 - this is debug message
+2020-07-20 20:04:41  INFO [main] Login:51 - ******************** opened browser *****************
+2020-07-20 20:04:41  WARN [main] Login:52 - Hey this just a warning message
+2020-07-20 20:04:41 ERROR [main] Login:53 - This is Error Message
+2020-07-20 20:04:41 FATAL [main] Login:54 - hey this is just fatal error message
+2020-07-20 20:04:41  INFO [main] Login:66 - ******************** title captured *****************
+2020-07-20 20:04:41  INFO [main] Login:86 - ******************** Closed browser *****************
+2020-07-20 20:04:47  INFO [main] Login:45 - ******************** window maximised *****************
+2020-07-20 20:04:48 DEBUG [main] Login:50 - this is debug message
+2020-07-20 20:04:48  INFO [main] Login:51 - ******************** opened browser *****************
+2020-07-20 20:04:48  WARN [main] Login:52 - Hey this just a warning message
+2020-07-20 20:04:48 ERROR [main] Login:53 - This is Error Message
+2020-07-20 20:04:48 FATAL [main] Login:54 - hey this is just fatal error message
+2020-07-20 20:04:49  INFO [main] Login:75 - ******************** Logo Dispalyed *****************
+2020-07-20 20:04:49  INFO [main] Login:86 - ******************** Closed browser *****************
